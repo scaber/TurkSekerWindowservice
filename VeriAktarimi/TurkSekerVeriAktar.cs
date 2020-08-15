@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -15,7 +16,7 @@ namespace VeriAktarimi
         {
             WriteToFile("Service Başladı " + DateTime.Now);
             timer.Elapsed += new ElapsedEventHandler(OnElapsedTime);
-            timer.Interval = 5000;
+            timer.Interval = 5000; // every 5  seconds
             timer.Enabled = true;
         }
         public void Stop()
@@ -48,6 +49,36 @@ namespace VeriAktarimi
         private void OnElapsedTime(object source, ElapsedEventArgs e)
         {
             WriteToFile("Service Message ! tayfun.com :    " + DateTime.Now);
+            try
+            {
+                string connetionString;
+                SqlConnection cnn;
+                connetionString = @"Server=.;Database=TurkSeker;User Id=sa;Password=123;";
+                cnn = new SqlConnection(connetionString);
+                cnn.Open();
+
+                SqlCommand command = new SqlCommand("Select Kayit_tar_saat from dbo.genelmd where Id=1577", cnn);
+                
+                // int result = command.ExecuteNonQuery();
+                using (SqlDataReader reader = command.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        WriteToFile(reader["Kayit_tar_saat"].ToString()+"   ! " + DateTime.Now);
+                       // Console.WriteLine(String.Format("{0}", reader["id"]));
+                    }
+                }
+                WriteToFile("Connection Open  ! " + DateTime.Now);
+
+                cnn.Close();
+
+                WriteToFile("Connection Close  ! " + DateTime.Now);
+            }
+            catch (Exception ex)
+            {
+                WriteToFile(ex.Message.ToString() + DateTime.Now);
+                throw;
+            }
 
         }
     }
