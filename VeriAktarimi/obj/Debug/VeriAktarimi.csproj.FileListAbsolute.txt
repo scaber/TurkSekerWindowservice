@@ -1,0 +1,12 @@
+C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.exe.config
+C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.exe
+C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.pdb
+C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\log4net.dll
+C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\log4net.xml
+C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\obj\Debug\VeriAktarimi.csprojAssemblyReference.cache
+C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\obj\Debug\VeriAktarimi.ProjectInstaller.resources
+C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\obj\Debug\VeriAktarimi.csproj.GenerateResource.cache
+C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\obj\Debug\VeriAktarimi.csproj.CoreCompileInputs.cache
+C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\obj\Debug\VeriAktarimi.csproj.CopyComplete
+C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\obj\Debug\VeriAktarimi.exe
+C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\obj\Debug\VeriAktarimi.pdb
