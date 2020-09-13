@@ -1,0 +1,388 @@
+Service Başladı 14.09.2020 01:16:36
+Service Message ! tayfun.com : Malatya    14.09.2020 01:16:41
+Connection Open  ! 14.09.2020 01:16:41
+Connection Close  ! 14.09.2020 01:16:41
+Service Message ! tayfun.com : Malatya    14.09.2020 01:16:46
+Connection Open  ! 14.09.2020 01:16:46
+Connection Close  ! 14.09.2020 01:16:46
+Service Message ! tayfun.com : Malatya    14.09.2020 01:16:51
+Connection Open  ! 14.09.2020 01:16:51
+Connection Close  ! 14.09.2020 01:16:51
+Service Message ! tayfun.com : Malatya    14.09.2020 01:16:56
+Connection Open  ! 14.09.2020 01:16:56
+Connection Close  ! 14.09.2020 01:16:56
+Service Message ! tayfun.com : Malatya    14.09.2020 01:17:01
+Connection Open  ! 14.09.2020 01:17:01
+Connection Close  ! 14.09.2020 01:17:01
+Service Message ! tayfun.com : Malatya    14.09.2020 01:17:06
+Connection Open  ! 14.09.2020 01:17:06
+Connection Close  ! 14.09.2020 01:17:06
+Service Message ! tayfun.com : Malatya    14.09.2020 01:17:11
+Connection Open  ! 14.09.2020 01:17:11
+Connection Close  ! 14.09.2020 01:17:11
+Service Message ! tayfun.com : Malatya    14.09.2020 01:17:16
+Connection Open  ! 14.09.2020 01:17:16
+Connection Close  ! 14.09.2020 01:17:16
+Service Message ! tayfun.com : Malatya    14.09.2020 01:17:21
+Connection Open  ! 14.09.2020 01:17:21
+Connection Close  ! 14.09.2020 01:17:21
+Service Message ! tayfun.com : Malatya    14.09.2020 01:17:26
+Connection Open  ! 14.09.2020 01:17:26
+Connection Close  ! 14.09.2020 01:17:26
+Service Message ! tayfun.com : Malatya    14.09.2020 01:17:31
+Connection Open  ! 14.09.2020 01:17:31
+Connection Close  ! 14.09.2020 01:17:31
+Service Message ! tayfun.com : Malatya    14.09.2020 01:17:36
+Connection Open  ! 14.09.2020 01:17:36
+Connection Close  ! 14.09.2020 01:17:36
+Service Message ! tayfun.com : Malatya    14.09.2020 01:17:41
+Connection Open  ! 14.09.2020 01:17:41
+Connection Close  ! 14.09.2020 01:17:41
+Service Message ! tayfun.com : Malatya    14.09.2020 01:17:46
+Connection Open  ! 14.09.2020 01:17:46
+Connection Close  ! 14.09.2020 01:17:46
+Service Message ! tayfun.com : Malatya    14.09.2020 01:17:51
+Connection Open  ! 14.09.2020 01:17:51
+Connection Close  ! 14.09.2020 01:17:51
+Service Message ! tayfun.com : Malatya    14.09.2020 01:17:56
+Connection Open  ! 14.09.2020 01:17:56
+Connection Close  ! 14.09.2020 01:17:56
+Service Message ! tayfun.com : Malatya    14.09.2020 01:18:01
+Connection Open  ! 14.09.2020 01:18:01
+Connection Close  ! 14.09.2020 01:18:01
+Service Message ! tayfun.com : Malatya    14.09.2020 01:18:06
+Connection Open  ! 14.09.2020 01:18:06
+Connection Close  ! 14.09.2020 01:18:06
+Service Başladı 14.09.2020 01:18:32
+Service Message ! tayfun.com : Malatya    14.09.2020 01:18:37
+Connection Open  ! 14.09.2020 01:18:38
+Connection Close  ! 14.09.2020 01:18:38
+Service Message ! tayfun.com : Malatya    14.09.2020 01:18:42
+Connection Open  ! 14.09.2020 01:18:42
+Connection Close  ! 14.09.2020 01:18:42
+Service Message ! tayfun.com : Malatya    14.09.2020 01:18:47
+Connection Open  ! 14.09.2020 01:18:47
+Connection Close  ! 14.09.2020 01:18:47
+Service Message ! tayfun.com : Malatya    14.09.2020 01:18:52
+Connection Open  ! 14.09.2020 01:18:52
+Connection Close  ! 14.09.2020 01:18:52
+Service Message ! tayfun.com : Malatya    14.09.2020 01:18:57
+Connection Open  ! 14.09.2020 01:18:57
+Connection Close  ! 14.09.2020 01:18:57
+Service Message ! tayfun.com : Malatya    14.09.2020 01:19:02
+Connection Open  ! 14.09.2020 01:19:02
+Connection Close  ! 14.09.2020 01:19:02
+Service Message ! tayfun.com : Malatya    14.09.2020 01:19:07
+Connection Open  ! 14.09.2020 01:19:07
+Connection Close  ! 14.09.2020 01:19:07
+Service Message ! tayfun.com : Malatya    14.09.2020 01:19:12
+Connection Open  ! 14.09.2020 01:19:12
+Connection Close  ! 14.09.2020 01:19:12
+Service Message ! tayfun.com : Malatya    14.09.2020 01:19:17
+Connection Open  ! 14.09.2020 01:19:17
+Connection Close  ! 14.09.2020 01:19:17
+Service Message ! tayfun.com : Malatya    14.09.2020 01:19:22
+Connection Open  ! 14.09.2020 01:19:22
+Connection Close  ! 14.09.2020 01:19:22
+Service Message ! tayfun.com : Malatya    14.09.2020 01:19:27
+Connection Open  ! 14.09.2020 01:19:27
+Connection Close  ! 14.09.2020 01:19:27
+Service Message ! tayfun.com : Malatya    14.09.2020 01:19:32
+Connection Open  ! 14.09.2020 01:19:32
+Connection Close  ! 14.09.2020 01:19:32
+Service Message ! tayfun.com : Malatya    14.09.2020 01:19:37
+Connection Open  ! 14.09.2020 01:19:37
+Connection Close  ! 14.09.2020 01:19:37
+Service Message ! tayfun.com : Malatya    14.09.2020 01:19:42
+Connection Open  ! 14.09.2020 01:19:42
+Connection Close  ! 14.09.2020 01:19:42
+Service Message ! tayfun.com : Malatya    14.09.2020 01:19:47
+Connection Open  ! 14.09.2020 01:19:47
+Connection Close  ! 14.09.2020 01:19:47
+Service Message ! tayfun.com : Malatya    14.09.2020 01:19:52
+Connection Open  ! 14.09.2020 01:19:52
+Connection Close  ! 14.09.2020 01:19:52
+Service Message ! tayfun.com : Malatya    14.09.2020 01:19:57
+Connection Open  ! 14.09.2020 01:19:57
+Connection Close  ! 14.09.2020 01:19:57
+Service Message ! tayfun.com : Malatya    14.09.2020 01:20:02
+Connection Open  ! 14.09.2020 01:20:02
+Connection Close  ! 14.09.2020 01:20:02
+Service Message ! tayfun.com : Malatya    14.09.2020 01:20:07
+Connection Open  ! 14.09.2020 01:20:07
+Connection Close  ! 14.09.2020 01:20:07
+Service Message ! tayfun.com : Malatya    14.09.2020 01:20:12
+Connection Open  ! 14.09.2020 01:20:12
+Connection Close  ! 14.09.2020 01:20:12
+Service Message ! tayfun.com : Malatya    14.09.2020 01:20:17
+Connection Open  ! 14.09.2020 01:20:17
+Connection Close  ! 14.09.2020 01:20:17
+Service Message ! tayfun.com : Malatya    14.09.2020 01:20:22
+Connection Open  ! 14.09.2020 01:20:22
+Connection Close  ! 14.09.2020 01:20:22
+Service Message ! tayfun.com : Malatya    14.09.2020 01:20:27
+Connection Open  ! 14.09.2020 01:20:27
+Connection Close  ! 14.09.2020 01:20:27
+Service Message ! tayfun.com : Malatya    14.09.2020 01:20:32
+Connection Open  ! 14.09.2020 01:20:32
+Connection Close  ! 14.09.2020 01:20:32
+Service Message ! tayfun.com : Malatya    14.09.2020 01:20:37
+Connection Open  ! 14.09.2020 01:20:37
+Connection Close  ! 14.09.2020 01:20:37
+Service Durduruldu 14.09.2020 01:20:39
+Service Başladı 14.09.2020 01:20:46
+Service Message ! tayfun.com : Malatya    14.09.2020 01:20:51
+Connection Open  ! 14.09.2020 01:20:51
+Connection Close  ! 14.09.2020 01:20:51
+Service Message ! tayfun.com : Malatya    14.09.2020 01:20:56
+Connection Open  ! 14.09.2020 01:20:56
+Connection Close  ! 14.09.2020 01:20:56
+Service Message ! tayfun.com : Malatya    14.09.2020 01:21:01
+Connection Open  ! 14.09.2020 01:21:01
+Connection Close  ! 14.09.2020 01:21:01
+Service Message ! tayfun.com : Malatya    14.09.2020 01:21:06
+Connection Open  ! 14.09.2020 01:21:06
+Connection Close  ! 14.09.2020 01:21:06
+Service Message ! tayfun.com : Malatya    14.09.2020 01:21:11
+Connection Open  ! 14.09.2020 01:21:11
+Connection Close  ! 14.09.2020 01:21:11
+Service Message ! tayfun.com : Malatya    14.09.2020 01:21:16
+Connection Open  ! 14.09.2020 01:21:16
+Connection Close  ! 14.09.2020 01:21:16
+Service Message ! tayfun.com : Malatya    14.09.2020 01:21:21
+Connection Open  ! 14.09.2020 01:21:21
+Connection Close  ! 14.09.2020 01:21:21
+Service Message ! tayfun.com : Malatya    14.09.2020 01:21:26
+Connection Open  ! 14.09.2020 01:21:26
+Connection Close  ! 14.09.2020 01:21:26
+Service Message ! tayfun.com : Malatya    14.09.2020 01:21:31
+Connection Open  ! 14.09.2020 01:21:31
+Connection Close  ! 14.09.2020 01:21:31
+Service Message ! tayfun.com : Malatya    14.09.2020 01:21:36
+Connection Open  ! 14.09.2020 01:21:36
+Connection Close  ! 14.09.2020 01:21:36
+Service Message ! tayfun.com : Malatya    14.09.2020 01:21:41
+Connection Open  ! 14.09.2020 01:21:42
+Connection Close  ! 14.09.2020 01:21:42
+Service Message ! tayfun.com : Malatya    14.09.2020 01:21:46
+Connection Open  ! 14.09.2020 01:21:46
+Connection Close  ! 14.09.2020 01:21:46
+Service Message ! tayfun.com : Malatya    14.09.2020 01:21:51
+Connection Open  ! 14.09.2020 01:21:51
+Connection Close  ! 14.09.2020 01:21:51
+Service Message ! tayfun.com : Malatya    14.09.2020 01:21:56
+Connection Open  ! 14.09.2020 01:21:56
+Connection Close  ! 14.09.2020 01:21:56
+Service Message ! tayfun.com : Malatya    14.09.2020 01:22:01
+Connection Open  ! 14.09.2020 01:22:01
+Connection Close  ! 14.09.2020 01:22:01
+Service Message ! tayfun.com : Malatya    14.09.2020 01:22:06
+Connection Open  ! 14.09.2020 01:22:06
+Connection Close  ! 14.09.2020 01:22:06
+Service Message ! tayfun.com : Malatya    14.09.2020 01:22:11
+Connection Open  ! 14.09.2020 01:22:11
+Connection Close  ! 14.09.2020 01:22:11
+Service Message ! tayfun.com : Malatya    14.09.2020 01:22:16
+Connection Open  ! 14.09.2020 01:22:16
+Connection Close  ! 14.09.2020 01:22:16
+Service Message ! tayfun.com : Malatya    14.09.2020 01:22:21
+Connection Open  ! 14.09.2020 01:22:21
+Connection Close  ! 14.09.2020 01:22:21
+Service Durduruldu 14.09.2020 01:22:24
+Service Başladı 14.09.2020 01:22:39
+Service Message ! tayfun.com : Malatya    14.09.2020 01:22:44
+Connection Open  ! 14.09.2020 01:22:47
+Connection Close  ! 14.09.2020 01:22:47
+Service Message ! tayfun.com : Malatya    14.09.2020 01:22:49
+Connection Open  ! 14.09.2020 01:22:52
+Connection Close  ! 14.09.2020 01:22:52
+Service Message ! tayfun.com : Malatya    14.09.2020 01:22:54
+Connection Open  ! 14.09.2020 01:22:56
+Connection Close  ! 14.09.2020 01:22:56
+Service Message ! tayfun.com : Malatya    14.09.2020 01:22:59
+Connection Open  ! 14.09.2020 01:22:59
+Connection Close  ! 14.09.2020 01:22:59
+Service Message ! tayfun.com : Malatya    14.09.2020 01:23:04
+Connection Open  ! 14.09.2020 01:23:04
+Connection Close  ! 14.09.2020 01:23:04
+Service Message ! tayfun.com : Malatya    14.09.2020 01:23:09
+Connection Open  ! 14.09.2020 01:23:09
+Connection Close  ! 14.09.2020 01:23:09
+Service Message ! tayfun.com : Malatya    14.09.2020 01:23:14
+Connection Open  ! 14.09.2020 01:23:14
+Connection Close  ! 14.09.2020 01:23:14
+Service Message ! tayfun.com : Malatya    14.09.2020 01:23:19
+Connection Open  ! 14.09.2020 01:23:19
+Connection Close  ! 14.09.2020 01:23:19
+Service Message ! tayfun.com : Malatya    14.09.2020 01:23:24
+Connection Open  ! 14.09.2020 01:23:24
+Connection Close  ! 14.09.2020 01:23:24
+Service Message ! tayfun.com : Malatya    14.09.2020 01:23:29
+Connection Open  ! 14.09.2020 01:23:29
+Connection Close  ! 14.09.2020 01:23:29
+Service Message ! tayfun.com : Malatya    14.09.2020 01:23:34
+Connection Open  ! 14.09.2020 01:23:34
+Connection Close  ! 14.09.2020 01:23:34
+Service Message ! tayfun.com : Malatya    14.09.2020 01:23:39
+Connection Open  ! 14.09.2020 01:23:39
+Connection Close  ! 14.09.2020 01:23:39
+Service Message ! tayfun.com : Malatya    14.09.2020 01:23:44
+Connection Open  ! 14.09.2020 01:23:44
+Connection Close  ! 14.09.2020 01:23:44
+Service Durduruldu 14.09.2020 01:23:45
+Service Başladı 14.09.2020 01:23:46
+Service Message ! tayfun.com : Malatya    14.09.2020 01:23:51
+Connection Open  ! 14.09.2020 01:23:51
+Connection Close  ! 14.09.2020 01:23:51
+Service Message ! tayfun.com : Malatya    14.09.2020 01:23:56
+Connection Open  ! 14.09.2020 01:23:56
+Connection Close  ! 14.09.2020 01:23:56
+Service Message ! tayfun.com : Malatya    14.09.2020 01:24:01
+Connection Open  ! 14.09.2020 01:24:01
+Connection Close  ! 14.09.2020 01:24:01
+Service Message ! tayfun.com : Malatya    14.09.2020 01:24:06
+Connection Open  ! 14.09.2020 01:24:06
+Connection Close  ! 14.09.2020 01:24:06
+Service Message ! tayfun.com : Malatya    14.09.2020 01:24:11
+Connection Open  ! 14.09.2020 01:24:11
+Connection Close  ! 14.09.2020 01:24:11
+Service Message ! tayfun.com : Malatya    14.09.2020 01:24:16
+Connection Open  ! 14.09.2020 01:24:16
+Connection Close  ! 14.09.2020 01:24:16
+Service Message ! tayfun.com : Malatya    14.09.2020 01:24:21
+Connection Open  ! 14.09.2020 01:24:21
+Connection Close  ! 14.09.2020 01:24:21
+Service Message ! tayfun.com : Malatya    14.09.2020 01:24:26
+Connection Open  ! 14.09.2020 01:24:26
+Connection Close  ! 14.09.2020 01:24:26
+Service Message ! tayfun.com : Malatya    14.09.2020 01:24:31
+Connection Open  ! 14.09.2020 01:24:31
+Connection Close  ! 14.09.2020 01:24:31
+Service Message ! tayfun.com : Malatya    14.09.2020 01:24:36
+Connection Open  ! 14.09.2020 01:24:36
+Connection Close  ! 14.09.2020 01:24:36
+Service Message ! tayfun.com : Malatya    14.09.2020 01:24:41
+Connection Open  ! 14.09.2020 01:24:41
+Connection Close  ! 14.09.2020 01:24:41
+Service Message ! tayfun.com : Malatya    14.09.2020 01:24:46
+Connection Open  ! 14.09.2020 01:24:46
+Connection Close  ! 14.09.2020 01:24:46
+Service Message ! tayfun.com : Malatya    14.09.2020 01:24:51
+Connection Open  ! 14.09.2020 01:24:51
+Connection Close  ! 14.09.2020 01:24:51
+Service Message ! tayfun.com : Malatya    14.09.2020 01:24:56
+Connection Open  ! 14.09.2020 01:24:56
+Connection Close  ! 14.09.2020 01:24:56
+Service Message ! tayfun.com : Malatya    14.09.2020 01:25:01
+Connection Open  ! 14.09.2020 01:25:01
+Connection Close  ! 14.09.2020 01:25:01
+Service Message ! tayfun.com : Malatya    14.09.2020 01:25:06
+Connection Open  ! 14.09.2020 01:25:06
+Connection Close  ! 14.09.2020 01:25:06
+Service Message ! tayfun.com : Malatya    14.09.2020 01:25:11
+Connection Open  ! 14.09.2020 01:25:11
+Connection Close  ! 14.09.2020 01:25:11
+Service Message ! tayfun.com : Malatya    14.09.2020 01:25:16
+Connection Open  ! 14.09.2020 01:25:16
+Connection Close  ! 14.09.2020 01:25:16
+Service Message ! tayfun.com : Malatya    14.09.2020 01:25:21
+Connection Open  ! 14.09.2020 01:25:21
+Connection Close  ! 14.09.2020 01:25:21
+Service Message ! tayfun.com : Malatya    14.09.2020 01:25:26
+Connection Open  ! 14.09.2020 01:25:26
+Connection Close  ! 14.09.2020 01:25:26
+Service Message ! tayfun.com : Malatya    14.09.2020 01:25:31
+Connection Open  ! 14.09.2020 01:25:31
+Connection Close  ! 14.09.2020 01:25:31
+Service Message ! tayfun.com : Malatya    14.09.2020 01:25:36
+Connection Open  ! 14.09.2020 01:25:36
+Connection Close  ! 14.09.2020 01:25:36
+Service Message ! tayfun.com : Malatya    14.09.2020 01:25:41
+Connection Open  ! 14.09.2020 01:25:41
+Connection Close  ! 14.09.2020 01:25:41
+Service Message ! tayfun.com : Malatya    14.09.2020 01:25:46
+Connection Open  ! 14.09.2020 01:25:46
+Connection Close  ! 14.09.2020 01:25:46
+Service Message ! tayfun.com : Malatya    14.09.2020 01:25:51
+Connection Open  ! 14.09.2020 01:25:51
+Connection Close  ! 14.09.2020 01:25:51
+Service Message ! tayfun.com : Malatya    14.09.2020 01:25:56
+Connection Open  ! 14.09.2020 01:25:56
+Connection Close  ! 14.09.2020 01:25:56
+Service Message ! tayfun.com : Malatya    14.09.2020 01:26:01
+Connection Open  ! 14.09.2020 01:26:01
+Connection Close  ! 14.09.2020 01:26:01
+Service Message ! tayfun.com : Malatya    14.09.2020 01:26:06
+Connection Open  ! 14.09.2020 01:26:06
+Connection Close  ! 14.09.2020 01:26:06
+Service Message ! tayfun.com : Malatya    14.09.2020 01:26:11
+Connection Open  ! 14.09.2020 01:26:11
+Connection Close  ! 14.09.2020 01:26:11
+Service Durduruldu 14.09.2020 01:26:15
+Service Başladı 14.09.2020 01:26:43
+Service Message ! tayfun.com : Malatya    14.09.2020 01:26:48
+Invalid object name 'GenelmdEmre'.14.09.2020 01:26:48
+Service Message ! tayfun.com : Malatya    14.09.2020 01:26:53
+Invalid object name 'GenelmdEmre'.14.09.2020 01:26:53
+Service Message ! tayfun.com : Malatya    14.09.2020 01:26:58
+Invalid object name 'GenelmdEmre'.14.09.2020 01:26:58
+Service Message ! tayfun.com : Malatya    14.09.2020 01:27:03
+Invalid object name 'GenelmdEmre'.14.09.2020 01:27:03
+Service Message ! tayfun.com : Malatya    14.09.2020 01:27:08
+Invalid object name 'GenelmdEmre'.14.09.2020 01:27:08
+Service Message ! tayfun.com : Malatya    14.09.2020 01:27:13
+Invalid object name 'GenelmdEmre'.14.09.2020 01:27:13
+Service Message ! tayfun.com : Malatya    14.09.2020 01:27:18
+Invalid object name 'GenelmdEmre'.14.09.2020 01:27:18
+Service Message ! tayfun.com : Malatya    14.09.2020 01:27:23
+Invalid object name 'GenelmdEmre'.14.09.2020 01:27:23
+Service Message ! tayfun.com : Malatya    14.09.2020 01:27:28
+Invalid object name 'GenelmdEmre'.14.09.2020 01:27:28
+Service Message ! tayfun.com : Malatya    14.09.2020 01:27:33
+Invalid object name 'GenelmdEmre'.14.09.2020 01:27:33
+Service Message ! tayfun.com : Malatya    14.09.2020 01:27:38
+Invalid object name 'GenelmdEmre'.14.09.2020 01:27:38
+Service Message ! tayfun.com : Malatya    14.09.2020 01:27:43
+Invalid object name 'GenelmdEmre'.14.09.2020 01:27:43
+Service Message ! tayfun.com : Malatya    14.09.2020 01:27:48
+Invalid object name 'GenelmdEmre'.14.09.2020 01:27:48
+Service Message ! tayfun.com : Malatya    14.09.2020 01:27:53
+Invalid object name 'GenelmdEmre'.14.09.2020 01:27:53
+Service Message ! tayfun.com : Malatya    14.09.2020 01:27:58
+Invalid object name 'GenelmdEmre'.14.09.2020 01:27:58
+Service Message ! tayfun.com : Malatya    14.09.2020 01:28:03
+Invalid object name 'GenelmdEmre'.14.09.2020 01:28:03
+Service Message ! tayfun.com : Malatya    14.09.2020 01:28:08
+Invalid object name 'GenelmdEmre'.14.09.2020 01:28:08
+Service Durduruldu 14.09.2020 01:28:09
+Service Başladı 14.09.2020 01:28:22
+Service Message ! tayfun.com : Malatya    14.09.2020 01:28:27
+Connection Open  ! 14.09.2020 01:28:30
+Connection Close  ! 14.09.2020 01:28:30
+Service Message ! tayfun.com : Malatya    14.09.2020 01:28:32
+Connection Open  ! 14.09.2020 01:28:35
+Connection Close  ! 14.09.2020 01:28:35
+Service Message ! tayfun.com : Malatya    14.09.2020 01:28:37
+Connection Open  ! 14.09.2020 01:28:40
+Connection Close  ! 14.09.2020 01:28:40
+Service Message ! tayfun.com : Malatya    14.09.2020 01:28:42
+Connection Open  ! 14.09.2020 01:28:45
+Connection Close  ! 14.09.2020 01:28:45
+Service Message ! tayfun.com : Malatya    14.09.2020 01:28:47
+Connection Open  ! 14.09.2020 01:28:48
+Connection Close  ! 14.09.2020 01:28:48
+Service Message ! tayfun.com : Malatya    14.09.2020 01:28:52
+Connection Open  ! 14.09.2020 01:28:52
+Connection Close  ! 14.09.2020 01:28:52
+Service Message ! tayfun.com : Malatya    14.09.2020 01:28:57
+Connection Open  ! 14.09.2020 01:28:57
+Connection Close  ! 14.09.2020 01:28:57
+Service Message ! tayfun.com : Malatya    14.09.2020 01:29:02
+Connection Open  ! 14.09.2020 01:29:02
+Connection Close  ! 14.09.2020 01:29:02
+Service Message ! tayfun.com : Malatya    14.09.2020 01:29:07
+Connection Open  ! 14.09.2020 01:29:07
+Connection Close  ! 14.09.2020 01:29:07
+Service Message ! tayfun.com : Malatya    14.09.2020 01:29:12
+Connection Open  ! 14.09.2020 01:29:12
+Connection Close  ! 14.09.2020 01:29:12

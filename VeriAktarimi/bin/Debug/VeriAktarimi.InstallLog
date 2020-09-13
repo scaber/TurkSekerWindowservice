@@ -50,3 +50,42 @@ Affected parameters are:
    logtoconsole = 
    assemblypath = C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.exe
    logfile = C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.InstallLog
+Installing assembly 'C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.exe
+   logfile = C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.InstallLog
+Installing service TurkSekerServis...
+Creating EventLog source TurkSekerServis in log Application...
+Rolling back assembly 'C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.exe
+   logfile = C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.InstallLog
+Restoring event log to previous state for source TurkSekerServis.
+Installing assembly 'C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.exe
+   logfile = C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.InstallLog
+Installing service TurkSekerServis...
+Service TurkSekerServis has been successfully installed.
+Creating EventLog source TurkSekerServis in log Application...
+Committing assembly 'C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.exe
+   logfile = C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.InstallLog
+Installing assembly 'C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.exe
+   logfile = C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.InstallLog
+Installing service TurkSekerServis...
+Service TurkSekerServis has been successfully installed.
+Creating EventLog source TurkSekerServis in log Application...
+Committing assembly 'C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.exe
+   logfile = C:\Users\tayfun\source\repos\VeriAktarimi\VeriAktarimi\bin\Debug\VeriAktarimi.InstallLog
